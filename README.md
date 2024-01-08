@@ -20,9 +20,11 @@
 ## About The Project
 
 This project is my attempt of recreating a prototype landing page design by The Odin Project using CSS Flexbox.
-![sohankancherla github io_landing-page_](https://github.com/sohankancherla/landing-page/assets/30853467/ea7da09e-1f57-4489-828e-63949299db43)
 
 The project is part of [The Odin Project's Foundations course](https://www.theodinproject.com/lessons/foundations-landing-page).
+
+![sohankancherla github io_landing-page_](https://github.com/sohankancherla/landing-page/assets/30853467/ea7da09e-1f57-4489-828e-63949299db43)
+
 
 ## Built With
 
