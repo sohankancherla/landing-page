@@ -40,7 +40,7 @@ Below is a list of the major tools and languages utilized:
 
 ## Acknowledgements
 
-* [Photo by Adelin Preda]("https://unsplash.com/photos/a-view-of-the-night-showing-stars--tOr_T4qTpQ")  
+* [Photo by Adelin Preda]("https://unsplash.com/photos/a-view-of-the-night-showing-stars--tOr_T4qTpQ/")  
 * [The Odin Project](https://www.theodinproject.com/)
 
 
